@@ -1,0 +1,13 @@
+# Normalise line endings so laptop and desktop don't fight over CRLF/LF
+* text=auto eol=lf
+
+# Binary files: never diff or convert
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.xlsx binary
+*.docx binary
+*.zip binary

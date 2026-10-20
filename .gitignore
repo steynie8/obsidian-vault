@@ -1,0 +1,19 @@
+# Obsidian: per-device UI state (changes constantly, causes merge conflicts between laptop and desktop)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# Claude Code: per-machine overrides
+.claude/settings.local.json
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Office lock files
+~$*
