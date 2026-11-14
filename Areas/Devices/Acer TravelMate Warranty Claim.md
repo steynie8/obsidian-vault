@@ -1,7 +1,8 @@
 ---
 type: project
 status: active
-tags: [todo]
+area: "[[Devices]]"
+tags: [project, todo]
 updated: 2026-11-14
 ---
 # Acer TravelMate Warranty Claim
@@ -119,4 +120,4 @@ Regards,
 - If that fails: Consumer Protection Act rights against the seller (business sellers only), or BobShop's dispute process.
 - Free IMEI blacklist check (optional): put a SIM in the laptop; if it connects to a South African network, it isn't blocked there.
 
-Back to [[Inbox]]
+Back to [[Devices]]

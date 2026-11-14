@@ -24,6 +24,8 @@ PARA folders and their subfolders each have an index/MOC note named after the fo
 - Reusable reference? → `Resources/<topic>/`.
 - Unsure? → leave it in `Inbox/` and ask.
 
+**Exception:** device troubleshooting cases (`type: project`) live in `Areas/Devices/`, not `Projects/`. When resolved, set `status: done` and leave them there as repair history.
+
 ## Frontmatter schema
 
 Every note starts with:

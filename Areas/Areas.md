@@ -14,6 +14,7 @@ Ongoing responsibilities with no end date.
 | Kingston Mews Body Corporate | [[Kingston Mews]] | [[Financial Review]] · [[Water Leaks]] |
 | Smart Home | [[Smart Home]] | [[Humidity Automation]] · [[Hardware]] |
 | Dev Environment & Claude Tooling | [[Dev Environment]] | [[Design System]] · [[Claude Setup]] · [[Claude Projects]] · [[Ideas]] |
+| Devices | [[Devices]] | [[Acer TravelMate Warranty Claim]] |
 | Work | [[Work]] | |
 | Car | [[Car]] | |
 | Fitness | [[Fitness]] | |

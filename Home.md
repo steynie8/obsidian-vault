@@ -16,6 +16,7 @@ updated: 2026-10-20
 |---|---|---|
 | [[AppShell]] | active | White-label multi-tenant SaaS framework |
 | [[Flat Renovation]] | active | J-Bay flat tiles, kitchen and fit-out |
+| [[Acer TravelMate Warranty Claim]] | active | Laptop cuts out on battery (lives in [[Devices]]) |
 | [[Fuelzy]] | active | SA fuel-tracking app |
 | [[Instagram Profile Tools]] | active | Chrome extension, engagement stats |
 | [[Wildlife Reserve Game]] | paused | Three.js safari sim |
@@ -28,6 +29,7 @@ updated: 2026-10-20
 | [[Kingston Mews]] | Body corporate governance and finances |
 | [[Smart Home]] | Tuya automations and hardware |
 | [[Dev Environment]] | Hardware, local LLMs, Claude tooling |
+| [[Devices]] | Personal devices and troubleshooting cases |
 | [[Work]] | Day job |
 | [[Car]] | Opel Astra maintenance |
 | [[Fitness]] | Virgin Active |
