@@ -2,13 +2,15 @@
 type: area
 status: active
 tags: [area, claude]
-updated: 2026-10-20
+updated: 2026-11-14
 ---
 # Dev Environment
 
 Index for the **Dev Environment & Claude Tooling** area.
 
-## Hardware
+## Hardware (desktop PC)
+See also [[Devices]].
+
 | Component | Spec |
 |---|---|
 | GPU | AMD RX 7800 XT (16 GB VRAM) |
